@@ -1,3 +1,3 @@
-# Glidy App Github Organization
+# Aviate App Github Organization
 
-## Available on Android
+## Soon available on Android
